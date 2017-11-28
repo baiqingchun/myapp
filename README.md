@@ -1,4 +1,4 @@
-#说明
+#说明#
 1，官网教程http://www.expressjs.com.cn/starter/generator.html
 用express快速搭建应用。
 
